@@ -7,9 +7,8 @@
 - pkg install python2 
 - pkg install python3
 - pkg install git
-- rm -rf 
+- rm -rf Temp-Mail
 - git clone https://github.com/MIVI404cyber/Temp-Mail
-# Tool Run
 - cd Temp-Mail
-- python T-M.py
+- python Mail.py
 # Thanks All(💝)
